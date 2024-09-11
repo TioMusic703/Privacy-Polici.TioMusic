@@ -1,8 +1,4 @@
-Here’s an updated and enhanced **Privacy Policy for TioMusic Discord Bot** based on your example:
-
----
-
-**Privacy Policy for TioMusic Discord Bot**  
+### **Privacy Policy for TioMusic Discord Bot**  
 **Last updated: September 11, 2024 by azis.exe**
 
 ### Information Collected
@@ -31,7 +27,7 @@ Here’s an updated and enhanced **Privacy Policy for TioMusic Discord Bot** bas
 
 ### User Controls and Choices
 
-- **Data Deletion**: Users may request the deletion of their data by contacting us at [https://discord.com/invite/7a5297fbqp]. Upon request, all associated data will be erased from our servers within 30 days.
+- **Data Deletion**: Users may request the deletion of their data by contacting us at [Join My Server!](https://discord.com/invite/7a5297fbqp). Upon request, all associated data will be erased from our servers within 30 days.
   
 - **Opt-Out**: Users who do not wish to have their information collected can opt-out by discontinuing use of the bot. TioMusic does not collect any data unless commands are used directly within a server.
 
